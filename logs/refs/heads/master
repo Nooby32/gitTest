@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 298c2a7f6edd68fe961419dca57dc10044922050 Nooby32 <Nooby32@yandex.ru> 1473317509 +0300	commit (initial): First Commit
+298c2a7f6edd68fe961419dca57dc10044922050 315431d3db57bebcdfcad896e6a0d0baa702c866 Nooby32 <Nooby32@yandex.ru> 1473317761 +0300	commit: modify hello.html
+315431d3db57bebcdfcad896e6a0d0baa702c866 36ecb5ce484bf9dc94c5f215ac2bc46928430c3e Nooby32 <Nooby32@yandex.ru> 1473318082 +0300	commit: Added standard HTML page tags
+36ecb5ce484bf9dc94c5f215ac2bc46928430c3e 59ae75b88e23451e12e0b96aeaeecffac29c5fbe Nooby32 <Nooby32@yandex.ru> 1473318125 +0300	commit: Added HTML header
